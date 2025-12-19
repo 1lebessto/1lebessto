@@ -14,19 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Lee_Keggan 👋
 
-Soy un principiante en programación, explorando GitHub. No tengo proyectos grandes aún, pero estoy aprendiendo:
+Soy un principiante en programación, explorando GitHub.
 
-- **Lenguajes**: Python, HTML/CSS (o lo que estés estudiando).
-- **Intereses**: Desarrollo web, IA, juegos.
-- **Objetivos**: Crear mi primer proyecto open-source en 2026.
+- Lenguajes: Python, C++
+- Intereses: Ciberseguridad, IA.
+- Objetivos: Crear mi primer proyecto open-source en 2026.
 
-### Mis estadísticas
+Mis estadísticas
 ![GitHub Stats]()
 
-### Contáctame
-- Twitter: @tu-twitter
-- Email: tu-email@example.com
+ Contáctame
+- Twitter: --
+- Email: gerardojoker.123@outlook.com
 
 ¡Sígueme y colaboremos! 🚀
