@@ -27,6 +27,6 @@ Mis estadísticas
 
  Contáctame
 - Twitter: --
-- Email: gerardojoker.123@outlook.com
+- Email: --
 
 ¡Sígueme y colaboremos! 🚀
