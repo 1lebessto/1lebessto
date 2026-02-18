@@ -25,8 +25,4 @@ Soy un principiante en programación, explorando GitHub.
 Mis estadísticas
 ![GitHub Stats]()
 
- Contáctame
-- Twitter: --
-- Email: --
-
 ¡Sígueme y colaboremos! 🚀
