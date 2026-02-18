@@ -14,15 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ¡Hola! Soy Lee_Keggan 👋
+Hi! I'm Lee_Keggan 👋
 
-Soy un principiante en programación, explorando GitHub.
+I'm a beginner programmer, exploring GitHub.
 
-- Lenguajes: Python, C++
-- Intereses: Ciberseguridad, IA.
-- Objetivos: Crear mi primer proyecto open-source en 2026.
+- Languages: Python, C++
+- Interests: Cybersecurity, AI
 
-Mis estadísticas
+- Goals: To create my first open-source project in 2026.
+
+My
 ![GitHub Stats]()
 
-¡Sígueme y colaboremos! 🚀
+Follow me and let's collaborate! 🚀
