@@ -1,135 +1,476 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/1lebessto" width="220" style="border-radius: 50%; border: 6px solid #CDB4DB; box-shadow: 0 0 25px #CDB4DB;">
+<img src="https://avatars.githubusercontent.com/1lebessto" width="180" alt="1lebessto Avatar">
 
-<h1 align="center">
-  <b>Hi, I'm 👨‍💻 1lebessto</b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+# 👨‍💻 1lebessto
 
-<p align="center">
-  Cybersecurity Student | Ethical Hacking Learner | Linux Enthusiast
-</p>
+### `Cybersecurity Student • Linux Enthusiast • Ethical Hacking Learner`
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=CDB4DB&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;Learning+Ethical+Hacking;Python+%7C+Bash+%7C+Linux;Building+Security+Tools" alt="Typing SVG">
-</p>
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=%24+whoami+%3D+1lebessto;%24+learning+cybersecurity...;%24+python+%7C+bash+%7C+linux;%24+building+my+security+lab...;%24+learning+%7C+building+%7C+breaking+%7C+fixing"
+alt="Typing SVG">
 
-</div>
+<br>
 
-<br><br>
-
----
-
-<div align="left">
-
-## 🧠 About Me
-
-🎓 Ingeniería en Ciberseguridad  
-🐍 Aprendiendo **Python para seguridad**  
-🐧 Amante de **Linux y Kali Linux**  
-🔎 Interesado en **Pentesting y análisis de redes**  
-🛠 Construyendo laboratorios de seguridad
+<img src="https://komarev.com/ghpvc/?username=1lebessto&label=PROFILE+VIEWS&color=00FF9C&style=flat-square" alt="Profile Views">
 
 </div>
 
-<br><br>
+---
+
+## `$ whoami`
+
+```bash
+user@github:~$ whoami
+
+> Cybersecurity student
+> Linux enthusiast
+> Python learner
+> Home-lab builder
+> Ethical hacking student
+```
+
+I'm a cybersecurity student focused on learning security from a practical and technical perspective.
+
+I use Linux as my main environment while developing my skills in **Python, Bash, networking, system administration and cybersecurity**.
+
+My goal is to document what I learn, build my own tools, experiment inside controlled environments and gradually create a complete cybersecurity knowledge base.
+
+### Current interests
+
+* 🐧 Linux systems
+* 🌐 Computer networks
+* 🔎 Network reconnaissance
+* 🐍 Python for cybersecurity
+* ⚙️ Bash automation
+* 🛡️ Linux hardening
+* 🔐 Web security
+* 📡 Network analysis
+* 🧪 Cybersecurity home labs
+
+> [!IMPORTANT]
+> All cybersecurity projects, experiments and security testing documented here are intended for educational purposes, controlled environments and systems I own or have explicit authorization to test.
 
 ---
+
+## `$ current_focus`
+
+```text
+[+] Linux fundamentals
+[+] Python fundamentals
+[+] Bash scripting
+[+] Git & GitHub
+[+] Network fundamentals
+[+] Cybersecurity fundamentals
+
+[~] Network scanning
+[~] Linux hardening
+[~] Pentesting methodology
+[~] Web security
+[~] Traffic analysis
+[~] Security automation
+```
+
+**Legend**
+
+```text
+[+] Currently practicing
+[~] Currently learning
+```
+
+---
+
+## `$ technologies`
 
 <div align="center">
 
-## ⚙️ My Skills Include
+### Languages & Scripting
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim">
-
-</div>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF9C" alt="Python">
+<img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=00FF9C" alt="Bash">
 
 <br><br>
 
+### Operating Systems
+
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF9C" alt="Linux">
+<img src="https://img.shields.io/badge/Arch_Linux-0D1117?style=for-the-badge&logo=arch-linux&logoColor=00FF9C" alt="Arch Linux">
+<img src="https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kali-linux&logoColor=00FF9C" alt="Kali Linux">
+
+<br><br>
+
+### Development & Tools
+
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF9C" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C" alt="GitHub">
+<img src="https://img.shields.io/badge/Vim-0D1117?style=for-the-badge&logo=vim&logoColor=00FF9C" alt="Vim">
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FF9C" alt="Docker">
+<img src="https://img.shields.io/badge/VirtualBox-0D1117?style=for-the-badge&logo=virtualbox&logoColor=00FF9C" alt="VirtualBox">
+
+</div>
+
 ---
+
+## `$ security_tools --learning`
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=1lebessto&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="1lebessto GitHub Stats">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=1lebessto&theme=dark&hide_border=false)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1lebessto&layout=compact&theme=dark&bg_color=0A0A0A&title_color=CDB4DB&text_color=D3D3D3" alt="1lebessto Top Languages">
+<img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logoColor=00FF9C" alt="Nmap">
+<img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00FF9C" alt="Wireshark">
+<img src="https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burp-suite&logoColor=00FF9C" alt="Burp Suite">
+<img src="https://img.shields.io/badge/Nessus-0D1117?style=for-the-badge&logoColor=00FF9C" alt="Nessus">
+<img src="https://img.shields.io/badge/Recon--ng-0D1117?style=for-the-badge&logoColor=00FF9C" alt="Recon-ng">
 
 </div>
 
-<br><br>
+<br>
+
+```text
+Linux Administration  ███████░░░  Learning
+Network Fundamentals  ███████░░░  Learning
+Python                ██████░░░░  Learning
+Bash                  █████░░░░░  Learning
+Network Security      █████░░░░░  Learning
+Web Security          ███░░░░░░░  Beginner
+```
 
 ---
+
+## `$ ls ~/projects`
+
+```bash
+1lebessto@github:~/projects$ ls -la
+
+drwxr-xr-x  python-security/
+drwxr-xr-x  linux-labs/
+drwxr-xr-x  network-security/
+drwxr-xr-x  security-scripts/
+drwxr-xr-x  cybersecurity-notes/
+drwxr-xr-x  home-lab/
+```
+
+### 🔎 Network Security Projects
+
+Python projects and experiments focused on understanding:
+
+* Host discovery
+* Ports and services
+* TCP/IP
+* Network scanning
+* Basic network reconnaissance
+
+`Python` `Networking` `Cybersecurity`
+
+---
+
+### 🐍 Python Security Tools
+
+Small Python utilities created while learning programming and cybersecurity concepts.
+
+Current areas of practice include:
+
+* Input validation
+* Port analysis
+* Risk classification
+* Network utilities
+* Automation
+* Security-related scripting
+
+`Python` `Automation` `Security`
+
+---
+
+### 🐧 Linux Security Lab
+
+Experiments, configurations and documentation related to Linux administration and security.
+
+Topics include:
+
+* Users and permissions
+* Processes and services
+* File systems
+* SSH
+* System hardening
+* Bash scripting
+* Linux troubleshooting
+
+`Linux` `Arch Linux` `Kali Linux` `Bash`
+
+---
+
+### 🧪 Cybersecurity Home Lab
+
+My personal environment for learning and testing cybersecurity concepts safely.
+
+```text
+Arch Linux Host
+│
+├── Kali Linux VM
+│
+├── Linux containers
+│
+├── VirtualBox
+│
+├── Network experiments
+│
+├── Security tools
+│
+└── Defensive testing
+```
+
+`Kali Linux` `Arch Linux` `VirtualBox` `Networking`
+
+---
+
+### 📚 Cybersecurity Notes
+
+Documentation created while studying cybersecurity.
+
+The objective is to progressively build my own knowledge base covering:
+
+* Linux
+* Networking
+* Python
+* Bash
+* Pentesting fundamentals
+* Web security
+* Security tools
+* Home-lab experiments
+* Troubleshooting
+* Machine write-ups
+
+`Documentation` `Cybersecurity` `Learning`
+
+---
+
+## `$ tree ~/learning-path`
+
+```text
+Cybersecurity
+│
+├── Linux
+│   │
+│   ├── Linux Fundamentals
+│   ├── Arch Linux
+│   ├── Kali Linux
+│   ├── File Permissions
+│   ├── Users & Groups
+│   ├── Processes
+│   ├── Services
+│   ├── SSH
+│   └── System Hardening
+│
+├── Networking
+│   │
+│   ├── TCP/IP
+│   ├── OSI Model
+│   ├── Ports & Services
+│   ├── DNS
+│   ├── HTTP / HTTPS
+│   ├── Nmap
+│   └── Traffic Analysis
+│
+├── Programming
+│   │
+│   ├── Python
+│   │   ├── Variables
+│   │   ├── Conditions
+│   │   ├── Loops
+│   │   ├── Functions
+│   │   └── Security Scripts
+│   │
+│   └── Bash
+│       ├── Shell Fundamentals
+│       ├── Automation
+│       └── Linux Scripts
+│
+├── Web Security
+│   │
+│   ├── HTTP / HTTPS
+│   ├── TLS / SSL
+│   ├── Burp Suite
+│   └── Web Security Fundamentals
+│
+├── Security Tools
+│   │
+│   ├── Nmap
+│   ├── Wireshark
+│   ├── Burp Suite
+│   ├── Nessus
+│   └── Recon-ng
+│
+└── Home Lab
+    │
+    ├── Virtual Machines
+    ├── Kali Linux
+    ├── Arch Linux
+    ├── Network Labs
+    ├── Defensive Testing
+    └── Security Experiments
+```
+
+---
+
+## `$ cat roadmap.txt`
+
+```text
+PHASE 01 ─ Linux & Networking Fundamentals
+    │
+    ├── Understand Linux
+    ├── Learn the terminal
+    ├── Understand TCP/IP
+    └── Learn how networks communicate
+                 │
+                 ▼
+PHASE 02 ─ Programming
+    │
+    ├── Python
+    ├── Bash
+    └── Security automation
+                 │
+                 ▼
+PHASE 03 ─ Security Fundamentals
+    │
+    ├── Reconnaissance
+    ├── Network scanning
+    ├── Services
+    ├── Vulnerabilities
+    └── System hardening
+                 │
+                 ▼
+PHASE 04 ─ Web Security
+    │
+    ├── HTTP / HTTPS
+    ├── Requests & Responses
+    ├── Burp Suite
+    └── Web vulnerabilities
+                 │
+                 ▼
+PHASE 05 ─ Build & Document
+    │
+    ├── Security scripts
+    ├── Home-lab projects
+    ├── Machine write-ups
+    └── Cybersecurity documentation
+```
+
+---
+
+## `$ objectives`
+
+```text
+[01] Improve my Python programming skills
+
+[02] Understand Linux beyond basic usage
+
+[03] Build cybersecurity tools from scratch
+
+[04] Improve my networking knowledge
+
+[05] Learn ethical pentesting methodologies
+
+[06] Build a complete cybersecurity home lab
+
+[07] Understand how security tools actually work
+
+[08] Document solutions to technical problems
+
+[09] Create machine and laboratory write-ups
+
+[10] Share useful scripts and cybersecurity knowledge
+```
+
+---
+
+## `$ github --stats`
 
 <div align="center">
 
-## 📈 Activity Graph
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=1lebessto&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9"
+alt="1lebessto GitHub Stats">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=1lebessto&theme=tokyo-night" alt="Activity Graph">
-
-</div>
-
-<br><br>
-
----
-
-<div align="left">
-
-## 🧰 Security Tools I'm Learning
-
-- Network Scanning  
-- Web Pentesting  
-- Linux Hardening  
-- TLS/SSL Analysis  
-- Bash Automation  
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=1lebessto&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9"
+alt="1lebessto Top Languages">
 
 </div>
 
-<br><br>
+<br>
 
----
+<div align="center">
 
-<div align="left">
-
-## 📌 Popular Repositories
-
-**🔎 Network Scanner (Python)**  
-A powerful Python tool for network discovery and scanning  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Python">
-
-**🔐 Secure TLS Client**  
-Secure client for TLS/SSL analysis and testing  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Python">
-
-**🖥 Linux Automation Scripts**  
-Bash scripts for Linux hardening and automation  
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash" alt="Bash">
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=1lebessto&theme=github-dark-blue&hide_border=true"
+alt="1lebessto GitHub Streak">
 
 </div>
 
-<br><br>
+---
+
+## `$ github --activity`
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=1lebessto&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true"
+alt="1lebessto Activity Graph">
+
+</div>
 
 ---
 
-<div align="left">
+## `$ philosophy`
 
-## 📫 Check out my Social Media
+```bash
+#!/bin/bash
+
+while true; do
+    learn
+    practice
+    build
+    break_things_in_the_lab
+    understand_why
+    fix
+    document
+done
+```
+
+> Don't just use the tool.
+> Understand what the tool is doing.
+
+---
+
+## `$ connect`
+
+<div align="center">
 
 <a href="https://github.com/1lebessto">
-  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-1lebessto-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C" alt="GitHub">
 </a>
+
 <a href="mailto:gerardojoker.123@outlook.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+<img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=microsoft-outlook&logoColor=00FF9C" alt="Email">
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+┌───────────────────────────────────────────────────┐
+│                                                   │
+│     Learning • Building • Breaking • Fixing       │
+│                                                   │
+│              > stay curious_                      │
+│                                                   │
+└───────────────────────────────────────────────────┘
+```
+
+### `root@1lebessto:~# ./keep_learning.sh`
 
 </div>
